@@ -1,2 +1,2 @@
 #!/bin/bash
- chown petty hello 
+ chown betty hello 
